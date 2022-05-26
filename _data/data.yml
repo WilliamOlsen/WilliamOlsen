@@ -3,53 +3,53 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    name: William E. Olsen
+    tagline: RTG post doctoral researcher and lecturer in the University of Virginia mathematics department
+    avatar: BillsBeer.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
+    email: weo3y@virginia.edu
+    phone:
     citizenship:
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    xing: alandoe
-    github: sharu725
+    website: #do not add http://
+    linkedin:
+    xing: 
+    github: WilliamOlsen
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    twitter:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
     pdf: http://www.africau.edu/images/default/sample.pdf
 
     languages:
-      - idiom: English
-        level: Native
+      # - idiom: # English
+      #   level: # Native
 
-      - idiom: French
-        level: Professional
+      # - idiom: # French
+      #  level: # Professional
 
-      - idiom: Spanish
-        level: Professional
+      # - idiom: Spanish
+      #  level: Professional
 
     interests:
-      - item: Climbing
-        link:
+      # - item: Climbing
+      #  link:
 
-      - item: Snowboarding
-        link:
+      # - item: Snowboarding
+      #  link:
 
-      - item: Cooking
-        link:
+      # - item: Cooking
+      #  link:
 
 career-profile:
-    title: Career Profile
+    title: Research
     summary: |
       Summarise your career here lorem ipsum dolor sit amet, consectetuer
       adipiscing elit. You can [download this free resume/CV template here]().
@@ -58,20 +58,17 @@ career-profile:
       Donec quam felis, ultricies nec, pellentesque eu.
       Second paragraph if required.
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: PhD in mathematics
+      university: University of Georgia
+      time: 2014 - 2020
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+        Supervised by David T. Gay. My thesis focused on using relative trisections to 
+        compute the relative invariants of Ozsvath and Szabo in Heegaard Floer homology.
+          - Thesis defense
+          - Thesis: Trisections and Ozsvath-Szabo four-manifold invariants
+    - degree: BSc in Mathematics
+      university: University of North Florida
+      time: 2008 - 2012
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -81,9 +78,9 @@ education:
           - Bullet point
           - Bullet point
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: RTG Postdoctoral researcher and lecturer
+      time: 2020 - Present
+      company: University of Virginia
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -96,20 +93,16 @@ experiences:
         architecto beatae vitae dicta sunt explicabo.
           - Bullet point
           - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+    - role: Visitor at the Max Planck Institute for mathematics
+      time: 2019-2020
+      company: MPIM, Bonn Germany
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+        While visiting MPIM I first started thinking about trisection dynamics.
+          - I gave a talk
+          - I saw Du Pei give a talk on four-manifolds and TMF.
+    - role: Graduate student at the University of Georgia
+      time: 2014 - 2020
+      company: UGA, Athens Georgia
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -188,6 +181,22 @@ skills:
 
       - name: Sketch & Photoshop
         level: 60%
+teaching:
+    - role: RTG Summer school mentor
+      time: Summer 2021 (virtual)
+      company: University of Virginia
+      details: |
+        Gave minicourse on introduction to knot theory which focused on applications of covering spaces
+        to topology. Using these, we constructed Alexander invariants of knots and showed how they can
+        used to solve interesting problems in knot theory.
+          - Introduction to knot theory.
+          - Alexander invariants of bridge-trisected 2-knots.
+    - role: Calculus III
+      time: Spring 2021
+      company: University of Virginia
+      details: |
+        A standard course on vector calculus which ends with Stokes' theorem and the divergence theorem.
+          - Website link
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
