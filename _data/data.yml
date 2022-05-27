@@ -49,14 +49,11 @@ sidebar:
       #  link:
 
 career-profile:
-    title: Research
+    title: Summary of research
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      My research focuses on the topology and geometry of smooth four-manifolds. The tools I use most often are trisections, Floer cohomology theories and their sheaf-theoretic counterparts, and quantum invariants. 
+      You can find detailed descriptions, notes, and preprints of projects I'm currently working on below. I have a research blog where I share my thoughts on current developments and trends in the field--beware:
+      I also have quite a bit of speculation on it too. 
 education:
     - degree: PhD in mathematics
       university: University of Georgia
