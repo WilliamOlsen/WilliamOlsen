@@ -9,7 +9,7 @@ sidebar:
     # Profile information
     name: William E. Olsen
     tagline: RTG post doctoral researcher and lecturer in the University of Virginia mathematics department
-    avatar: BillsBeer.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: weo3y@virginia.edu
@@ -49,7 +49,7 @@ sidebar:
       #  link:
 
 career-profile:
-    title: Summary of research
+    title: Research
     summary: |
       My research focuses on the topology and geometry of smooth four-manifolds. The tools I use most often are trisections, Floer cohomology theories and their sheaf-theoretic counterparts, and quantum invariants. 
       You can find detailed descriptions, notes, and preprints of projects I'm currently working on below. I have a research blog where I share my thoughts on current developments and trends in the field--beware:
@@ -78,122 +78,62 @@ experiences:
     - role: RTG Postdoctoral researcher and lecturer
       time: 2020 - Present
       company: University of Virginia
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
+      details:
     - role: Visitor at the Max Planck Institute for mathematics
       time: 2019-2020
       company: MPIM, Bonn Germany
-      details: |
-        While visiting MPIM I first started thinking about trisection dynamics.
-          - I gave a talk
-          - I saw Du Pei give a talk on four-manifolds and TMF.
+
     - role: Graduate student at the University of Georgia
       time: 2014 - 2020
       company: UGA, Athens Georgia
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-projects:
-    title: Projects
-    intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
-
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 publications:
     title: Publications
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+      My work is centers on developing the theory of trisections of four-manifolds, as introduced by Gay and Kirby. 
+      So far, this has meant applying techniques of modern symplectic geometry in the form of Heegaard Floer and
+      quilted Floer cohomology to this geometric situation. 
     papers:
-      - title: The Art of Computer Programming
+      - title: Trisections and Ozsvath-Szabo cobordism invariants
         link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+        authors: William E. Olsen
+        date: February 2021
+        details: | 
+          Given a smooth four-manifold with connected boundary and equipped with a trisected Morse
+          2-function we demonstrate how to compute the relative invariant of Ozsvath and Szabo in the 
+          setting of Heegaard Floer homology.
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+      - title: 2-knot contact homology and bridge-trisections
         link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+        authors: Johan Asplund and William E. Olsen
+        date: In preparation
+        details: | 
+          Given a knotted 2-sphere embedded in four-space, we prove a colimit formula for computing 
+          the Legendrian dga associated to the conormal lift.
 
-      - title: A syntax directed compiler for Algol 60
+      - title: Alexander invariants of 2-knots and bridge-trisections
         link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
-
-skills:
-    title: Skills &amp; Proficiency
-
-    toolset:
-      - name: Python & Django
-        level: 98%
-
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
-        level: 60%
+        authors: Ethan Clelland, Calvin Godfrey, Alexandra Emmons, Lusa Grisales, and William E. Olsen
+        date: In preparation
+        
 teaching:
-    - role: RTG Summer school mentor
+    - course: REU topology mentor
       time: Summer 2021 (virtual)
       company: University of Virginia
       details: |
-        Gave minicourse on introduction to knot theory which focused on applications of covering spaces
-        to topology. Using these, we constructed Alexander invariants of knots and showed how they can
-        used to solve interesting problems in knot theory.
-          - Introduction to knot theory.
+        As a beneficiary of UVA's RTG grant, I happily occupied a mentorship role in a topology REU during Summer 2021. My primary responsibilities were two-fold:
+        I gave an introductory minicourse on classical knot theory and I supervised a group of four undergraduate students through a research project which studied 
+        the Alexander invariants of knotted 2-spheres embedded in four-space. You can find the notes from the minicourse and our final paper below.
+          - Introductory knot theory course.
           - Alexander invariants of bridge-trisected 2-knots.
-    - role: Calculus III
-      time: Spring 2021
+    - course: MATH 8750 Topology of Manifolds 
+      time: Fall 2021
       company: University of Virginia
       details: |
-        A standard course on vector calculus which ends with Stokes' theorem and the divergence theorem.
-          - Website link
+        An introduction to smooth four-manifold topology with an eye towards the applicationss of trisections and the constructions of 
+        small exotic four-manifolds. 
+          - Course website
+          - Notes
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
