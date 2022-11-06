@@ -121,18 +121,15 @@ teaching:
       time: Summer 2021 (virtual)
       company: University of Virginia
       details: |
-        As a beneficiary of UVA's RTG grant, I happily occupied a mentorship role in a topology REU during Summer 2021. My primary responsibilities were two-fold:
-        I gave an introductory minicourse on classical knot theory and I supervised a group of four undergraduate students through a research project which studied 
-        the Alexander invariants of knotted 2-spheres embedded in four-space. You can find the notes from the minicourse and our final paper below.
-          - Introductory knot theory course.
-          - Alexander invariants of bridge-trisected 2-knots.
+        In the summer of 2021, I participated as a mentor for the topology REU hosted by UVA. My primary responsibilities were two-fold:
+        I wrote an introductory minicourse on classical knot theory, and I supervised a group of six students (four undergraduate partipants and two graduate student mentors) through a research project which studied 
+        the Alexander invariants of knotted 2-spheres embedded in four-space. 
+
     - course: MATH 8750 Topology of Manifolds 
       time: Fall 2021
       company: University of Virginia
       details: |
         An introduction to smooth four-manifold topology with an eye towards the applicationss of trisections and the constructions of 
         small exotic four-manifolds. 
-          - Course website
-          - Notes
 
 footer: >
