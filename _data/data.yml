@@ -54,6 +54,17 @@ career-profile:
       I'm a low-dimensional topologist with a special interest in dimension four. I'm particularly interested in the development and application of the theory of trisections of four-manifolds. 
       The tools I use most often are trisections, Floer cohomology theories, and their sheaf-theoretic counterparts. 
       
+diversity:
+    title: Equity in Mathematics
+    summary: |
+      I do my best to incorporate research-based teaching practices in support of equity and diversity within mathematics. Listed below are a few links which I've found useful and enlightening:
+      - [Spectra out and ally list](http://lgbtmath.org/)
+      - [Behaviors academics should avoid completely](https://sites.google.com/view/basac-training/)
+      - [Mathematically Gifted and Black](https://mathematicallygiftedandblack.com/)
+      - [Indigenous mathematicians](https://indigenousmathematicians.org/)
+      - [Lathisms](https://www.lathisms.org/)
+      - [CUPA-HR 21-Day Racial Equality Habit Building Challenge](https://www.cupahr.org/events/21-day-challenges/21-day-racial-equity-habit-building-challenge/)
+
 education:
     - degree: PhD in mathematics
       university: University of Georgia
