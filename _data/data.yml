@@ -144,11 +144,10 @@ teaching:
         small exotic four-manifolds. 
 
     - course: MATH 2310--Calculus III
-      time: Fall 2020, Spring 2021, Spring 2022, Fall 2022
+      time: Fall 2020, Spring 2021, Spring 2022, Fall 2022, Spring 2023
       company: University of Virginia
       details: |
-        [Course website.](https://williamolsen.github.io/Calculus-III/) A continuation of Calc I and II, this course is about functions of several variables. 
-        Topics include finding maxima and minima of functions of several variables/surfaces and curves in three-dimensional space/integration over these surfaces and curves. 
+        A continuation of Calc I and II, this course is about functions of several variables. Topics include finding maxima and minima of functions of several variables/surfaces and curves in three-dimensional space/integration over these surfaces and curves. 
         Additional topics: conservative vector fields/Stokes' and the divergence theorem/how these concepts relate to real world applications. Prerequisite: MATH 1320 or the equivalent. 
 
 footer: >
