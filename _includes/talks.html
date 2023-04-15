@@ -1,0 +1,43 @@
+{% assign talks = site.data.data.talks %}
+{% if talks %}
+<section class="section publications-section">
+
+  <h2 class="section-title">
+    <span class="fa-stack fa-xs">
+      <i class="fas fa-circle fa-stack-2x"></i>
+      <i class="fas fa-file-alt fa-stack-1x fa-inverse"></i>
+    </span>
+    {{ talks.title }}
+  </h2>
+
+  {% if talks.intro %}
+  <div class="intro">
+    {{ talks.intro | markdownify }}
+  </div><!--//intro-->
+  {% endif %}
+
+  {% for seminar in talks.seminars %}
+  <div class="item">
+
+    <div class="meta">
+
+      <div class="upper-row">
+        <h3 class="job-title"><a href="{{ seminar.link }}">{{ seminar.title }}</a></h3>
+        <div class="time">{{ seminar.date }}</div>
+      </div><!--//upper-row-->
+
+      <div class="company">{{ seminar.authors }}</div>
+
+    </div><!--//meta-->
+
+    {% if seminar.details %}
+    <div class="details">
+      {{ seminar.details | markdownify }}
+    </div><!--//details-->
+    {% endif %}
+
+  </div><!--//item-->
+  {% endfor %}
+
+</section><!--//section-->
+{% endif %}

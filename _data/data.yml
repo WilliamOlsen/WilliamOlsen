@@ -150,4 +150,22 @@ teaching:
         A continuation of Calc I and II, this course is about functions of several variables. Topics include finding maxima and minima of functions of several variables/surfaces and curves in three-dimensional space/integration over these surfaces and curves. 
         Additional topics: conservative vector fields/Stokes' and the divergence theorem/how these concepts relate to real world applications. Prerequisite: MATH 1320 or the equivalent. 
 
+talks:
+    title: Seminar Invitations
+    intro: |
+      A list of my invited seminar talks. Most recently, I've focused on discussing my work with Honghao Gao on applying microlocal sheaf theory to bridge-trisected surface knots. 
+    seminars:
+      - title: Microlocal sheaves and bridge-trisected surface knots
+        link: "#"
+        authors: William E. Olsen
+        date: November 2022
+        details: | 
+          University of Georgia
+
+      - title: Open-closed morphisms and broken fibrations
+        link: "#"
+        authors: William E. Olsen
+        date: March 2022
+        details: |
+          We adapt Seidel's construction from Lefschetz fibrations to broken Lefschetz fibrations which relates Heegaard Floer homology to Perutz's Lagrangian matching invariants.
 footer: >
