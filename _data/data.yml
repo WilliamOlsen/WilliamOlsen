@@ -126,6 +126,16 @@ publications:
         link: "#"
         authors: Ethan Clelland, Calvin Godfrey, Alexandra Emmons, Lusa Grisales, and William E. Olsen
         date: In preparation
+        details: |
+          <a href = "https://arxiv.org/abs/1606.05166">Cimansoni and Conway</a> have constructed an Alexander-Burau 2-functor which takes values in a 2-cospan category of modules over a Laurent polynomial ring. We apply their construction in the setting of bridge-trisected
+          2-knots. Our main result realizes the Alexander module of a 2-knot as a categorical trace in the sense of Kapranov. 
+
+      - title: On Lasagna operads
+        link: "#"
+        authors: Ross Ackmechet, Julie Bergner, William E. Olsen, Walker Stern
+        date: In preparation
+        details: |
+          We show that the Lasagna fillings of Morrison-Walker-Wedrich constitute a homotopy operad in the form of a dendroidal space. See, for example: 
         
 teaching:
     - course: REU topology mentor
