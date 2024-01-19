@@ -8,11 +8,11 @@ sidebar:
 
     # Profile information
     name: William E. Olsen
-    tagline: RTG post doctoral researcher and lecturer in the University of Virginia mathematics department
+    tagline: Post doctoral researcher at the Center for Quantum Mathematics at Syddansk Universitet
     avatar: BillEleni.jpeg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: weo3y@virginia.edu
+    email: wolsen@imada.sdu.dk
     phone:
     citizenship:
     website:  williamolsen.github.io #do not add http://
@@ -86,10 +86,16 @@ education:
           - Bullet point
           - Bullet point
 experiences:
-    - role: RTG Postdoctoral researcher and lecturer
-      time: 2020 - Present
+    - role: Postdoctoral researcher at the Center for Quantum Mathematics at Syddansk Universitet
+      time: Fall 2023 - Present
+      company: University of Southern Denmark
+      details: |
+        Supervised by Vivek Shende
+    - role: RTG Postdoctoral researcher and lecturer at the University of Virginia
+      time: Fall 2020 - Spring 2023
       company: University of Virginia
-      details: | 
+      details: |
+        Supervised by Thomas E. Mark 
 
     - role: Graduate student at the University of Georgia
       time: 2014 - 2020
